@@ -13,7 +13,11 @@ I am a problem solver who always thinks about how to solve real-life problems us
 This is my CV which was last updated on `18-Jan-2022`.
 
 ### Blockchain
- <img src="./img/eos.png" alt="Blockchain" width="180"/> EOS
+ <img src="./images/eos.png" alt="Blockchain" width="180"/> EOS
+ <img src="./images/flow.png" alt="Blockchain" width="180"/> Flow
+ <img src="./images/wax.png" alt="Blockchain" width="180"/> Wax
+ <img src="./images/telos.png" alt="Blockchain" width="180"/> Telos
+ 
  
 
-Feel free to reach out on the [Telegram](https://t.me/@ShamGi) directly. And if not available, email me I'll contact you asap.!
+Feel free to reach out on the [Telegram](https://t.me/@ShamGir) directly. And if not available, email me I'll contact you asap.!
