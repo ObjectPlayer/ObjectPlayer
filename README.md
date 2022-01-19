@@ -14,10 +14,10 @@ This is my CV which was last updated on `18-Jan-2022`.
 
 ### Blockchain
 <p>
- <img src="./images/eos.png" alt="Blockchain" width="230" height="150" /> <span />
- <img src="./images/flow.png" alt="Blockchain" width="280" height="150" /> <span />
- <img src="./images/wax.png" alt="Blockchain" width="150" height="150" /> <span />
- <img src="./images/telos.png" alt="Blockchain" width="250" height="150" /> <span />
+ <img src="./images/eos.png" alt="Blockchain" width="230" height="150" /> &nbsp;&nbsp; 
+ <img src="./images/flow.png" alt="Blockchain" width="280" height="150" /> &nbsp;&nbsp;
+ <img src="./images/wax.png" alt="Blockchain" width="150" height="150" /> &nbsp;&nbsp;
+ <img src="./images/telos.png" alt="Blockchain" width="250" height="150" /> &nbsp;&nbsp;
  </p>
  
 
