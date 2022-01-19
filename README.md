@@ -13,11 +13,12 @@ I am a problem solver who always thinks about how to solve real-life problems us
 This is my CV which was last updated on `18-Jan-2022`.
 
 ### Blockchain
- <img src="./images/eos.png" alt="Blockchain" width="100" height="100"/>
- <img src="./images/flow.png" alt="Blockchain" width="100" height="100" />
- <img src="./images/wax.png" alt="Blockchain" width="100" height="100" />
- <img src="./images/telos.png" alt="Blockchain" width="100" height="100" />
- 
+<p float="left">
+ <img src="./images/eos.png" alt="Blockchain" width="150" />
+ <img src="./images/flow.png" alt="Blockchain" width="150"  />
+ <img src="./images/wax.png" alt="Blockchain" width="150"  />
+ <img src="./images/telos.png" alt="Blockchain" width="150"  />
+ </p>
  
 
 Feel free to reach out on the [Telegram](https://t.me/@ShamGir) directly. And if not available, email me I'll contact you asap.!
