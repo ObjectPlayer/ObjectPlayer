@@ -13,10 +13,7 @@ I am a problem solver who always thinks about how to solve real-life problems us
 This is my CV which was last updated on `18-Jan-2022`.
 
 ### Blockchain
- <img src="./images/eos.png" alt="Blockchain" width="180"/> EOS
- <img src="./images/flow.png" alt="Blockchain" width="180"/> Flow
- <img src="./images/wax.png" alt="Blockchain" width="180"/> Wax
- <img src="./images/telos.png" alt="Blockchain" width="180"/> Telos
+ <img src="./images/blockchains.png" alt="Blockchain" /> 
  
  
 
