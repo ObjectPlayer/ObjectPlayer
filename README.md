@@ -16,7 +16,7 @@ This is my CV which was last updated on `18-Jan-2022`.
  <img src="./images/blockchains.png" alt="Blockchain" /> 
  
 ### Platforms and Framworks
- <img src="./images/frameworks.png" alt="Blockchain" /> 
+ <img src="./images/framwworks.png" alt="Frameworks" /> 
  
 
 Feel free to reach out on the [Telegram](https://t.me/@ShamGir) directly. And if not available, email me I'll contact you asap.!
