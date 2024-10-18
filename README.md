@@ -7,10 +7,10 @@
 [![ObjectPlayer StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9515659/sham-gir)
 
 
-I'm a Blockchain Developer with an experience in multiple Blockchains like EOS(Telos, WAX & its derivative chains), Flow, HyperLedger Indy, Fabric.
-I am a problem solver who always thinks about how to solve real-life problems using high-end technology. I am committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.
+Diligent Blockchain and Full Stack Developer with 6 years of experience in building NFT platforms, DeFi tools, and smart contracts across multiple blockchains such as Ethereum, Polygon, Flow, and HyperLedger. Strong background in developing decentralized applications, secure financial systems, and blockchain protocols. Adept at creating blockchain-based solutions for various industries, including finance, music, and corporate sectors. Passionate about leveraging blockchain technology to deliver secure, transparent, and innovative solutions.
 
-This is my CV which was last updated on `23-Jan-2022`.
+
+This is my CV which was last updated on `Oct-2024`.
 
 ### Blockchain
  <img src="./images/blockchains.png" alt="Blockchain" /> 
@@ -18,7 +18,8 @@ This is my CV which was last updated on `23-Jan-2022`.
 ### Platforms and Framworks
  <img src="./images/framwworks.png" alt="Frameworks" /> 
  
-### Programing Languages
+### Programing Languages and Frameworks
  <img src="./images/languages.png" alt="Languages" /> 
+
 
 Feel free to reach out on the [Telegram](https://t.me/@ShamGir) directly. And if not available, email me I'll contact you asap.!
