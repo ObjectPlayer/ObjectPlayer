@@ -90,6 +90,19 @@ Beyond coding, I'm an active contributor to the blockchain community through tec
 
 ## 💼 Professional Experience
 
+### Independent Blockchain Consultant & Security Auditor | (2025-Present)
+- Providing specialized blockchain consultancy services for startups and established companies
+- Conducting security audits and vulnerability assessments for smart contracts and DApps
+- Developing custom blockchain solutions as a freelance developer
+- Bug hunting and participating in security bounty programs
+- Offering technical advisory services for blockchain implementation and architecture
+- Specializing in cross-chain solutions and advanced proxy pattern implementations
+
+### TagMango | Security Auditor (2024-Present)
+- Perform BlackBox testing on backend APIs
+- Identify vulnerabilities in blockchain-based applications
+- Ensure security of production systems
+
 ### Troon Technologies | Blockchain Lead (2018-2025)
 - Led blockchain development teams across multiple chains (Flow, EVM, WAX, EOS)
 - Developed smart contracts for NFT marketplaces, DeFi tools, and cross-chain applications
@@ -98,11 +111,6 @@ Beyond coding, I'm an active contributor to the blockchain community through tec
 - Integrated wallet solutions (Rainbow, WalletConnect, MetaMask)
 - Developed cross-chain communication using Axelar and Squid Router
 - Utilized Chainlink oracles for secure and reliable off-chain data integration
-
-### TagMango | Security Auditor (2024-Present)
-- Perform BlackBox testing on backend APIs
-- Identify vulnerabilities in blockchain-based applications
-- Ensure security of production systems
 
 ### Kryptos | Sr. Blockchain & Backend Developer (2021)
 - Built multi-chain data aggregation systems for tax reporting
