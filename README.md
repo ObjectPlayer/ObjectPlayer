@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sham-gir-2573b1170/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sham-gir-objectplayer-513a99132/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://t.me/@ShamGir"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://discordapp.com/users/ShamGir#9676"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="mailto:sham@objectplayer.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -44,6 +44,8 @@ Beyond coding, I'm an active contributor to the blockchain community through tec
   <img src="https://img.shields.io/badge/Telos-7821B8?style=for-the-badge&logo=telos&logoColor=white" alt="Telos"/>
   <img src="https://img.shields.io/badge/Hyperledger_Indy-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger Indy"/>
   <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Base"/>
+  <img src="https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white" alt="Optimism"/>
+  <img src="https://img.shields.io/badge/Arbitrum-12AAFF?style=for-the-badge&logo=arbitrum&logoColor=white" alt="Arbitrum"/>
 </p>
 
 ## 🛠️ Technologies & Tools
@@ -53,6 +55,8 @@ Beyond coding, I'm an active contributor to the blockchain community through tec
   <img src="https://img.shields.io/badge/Cadence-00BFFF?style=for-the-badge&logo=flow&logoColor=white" alt="Cadence"/>
   <img src="https://img.shields.io/badge/Smart_Contracts-4E8772?style=for-the-badge&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
   <img src="https://img.shields.io/badge/ERC_Standards-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC Standards"/>
+  <img src="https://img.shields.io/badge/ZK_Proofs-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white" alt="ZK Proofs"/>
+  <img src="https://img.shields.io/badge/Layer_2-3182CE?style=for-the-badge&logo=ethereum&logoColor=white" alt="Layer 2"/>
 </p>
 
 <p align="center">
@@ -66,6 +70,8 @@ Beyond coding, I'm an active contributor to the blockchain community through tec
   <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink"/>
   <img src="https://img.shields.io/badge/Axelar-1A4BFF?style=for-the-badge&logo=axelar&logoColor=white" alt="Axelar"/>
   <img src="https://img.shields.io/badge/Squid_Router-FF4B4B?style=for-the-badge&logo=axelar&logoColor=white" alt="Squid Router"/>
+  <img src="https://img.shields.io/badge/zkSync-4A32A0?style=for-the-badge&logo=zksync&logoColor=white" alt="zkSync"/>
+  <img src="https://img.shields.io/badge/StarkNet-00A3FF?style=for-the-badge&logo=starknet&logoColor=white" alt="StarkNet"/>
   <img src="https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white" alt="The Graph"/>
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
   <img src="https://img.shields.io/badge/Arweave-222222?style=for-the-badge&logo=arweave&logoColor=white" alt="Arweave"/>
@@ -134,4 +140,4 @@ Feel free to reach out via [Email](mailto:sham@objectplayer.com) or [Telegram](h
   <img src="https://github-readme-stats.vercel.app/api?username=ObjectPlayer&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-<p align="right"><sub>Last updated: August 2025</sub></p>
+<p align="right"><sub>Last updated: October 2025</sub></p>
